@@ -1,0 +1,25 @@
+.titulo{
+    color:white;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+    align-items: center;
+}
+
+.morenaa{
+    padding: 3em;
+    color: purple;
+    display: flex;
+    font-size: 1.7em;
+    justify-content: center;
+    text-decoration: none;
+
+}
+
+.clica{
+    font-size: 1.75em;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
